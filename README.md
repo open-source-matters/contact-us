@@ -9,3 +9,9 @@ Anyone can post a discussion and we encourage you to do so.
 Your feedback is precious.
 
 Let's improve, together!
+
+- [Start a discussion](https://github.com/open-source-matters/contact-us/discussions/new)
+- [Contribute to existing discussions](https://github.com/open-source-matters/contact-us/discussions/)
+
+
+Thank you!
